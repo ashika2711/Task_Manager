@@ -48,7 +48,7 @@ Port Conflict? Check if ports 5173 (frontend) and 5000 (backend) are free.
 
 MongoDB Connection Issues? Ensure MongoDB service is running inside Docker (docker ps).
 
-# Screenshot
+# Screenshots
 1
 ![Image](https://github.com/user-attachments/assets/51645f80-e631-44a8-9aad-2670eb6c3a11)
 
